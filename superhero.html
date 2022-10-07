@@ -18,7 +18,7 @@
             }
             th,td
             {
-                border:2px solid blue;
+                border:5px solid blue;
                 padding-left:10px;
                 padding-right:10px;
                 padding-top:10px;
@@ -26,7 +26,11 @@
             }
             table
             {
-                border-spacing:0px;
+                border-spacing:0px
+            }
+            .tableheader
+            {
+                text-decoration:underline
             }
 
         </style>
@@ -36,7 +40,7 @@
     <table>
         <caption>Superhero Team</caption>
         <tbody>
-        <tr style="font-size:38pt">
+        <tr class="tableheader">
             <th scope="col">Name</th>
             <th scope="col">Alias</th>
             <th scope="col">Image</th>
