@@ -6,14 +6,27 @@
             Superhero 
         </title>
         <style>
+            caption
+            {
+                text-decoration:underline;
+                font-size:28px;;
+            }
             th
             {
-                font-size:28pt;
-                border: 2px solid blue;
+                width:200px;
+                font-size:20px;
+            }
+            th,td
+            {
+                border:2px solid blue;
+                padding-left:10px;
+                padding-right:10px;
+                padding-top:10px;
+                padding-bottom:10px
             }
             table
             {
-                border: 5px solid blue
+                border-spacing:0px;
             }
 
         </style>
@@ -21,6 +34,8 @@
   <body>
     <h1>Favorite Superheroes</h1>
     <table>
+        <caption>Superhero Team</caption>
+        <tbody>
         <tr style="font-size:38pt">
             <th scope="col">Name</th>
             <th scope="col">Alias</th>
@@ -63,6 +78,7 @@
             <td>Turns invisible and Creates force fields</td>
             <td>Her unlimited power can cause exhuastion</td>
         </tr>
+        </tbody>
     </table>
   </body>
 </html>
