@@ -1,6 +1,6 @@
 :root 
 {
-    --favcolor:rgb(173, 216, 230);
+    --favcolor:rgb(28, 145, 204);
 }
 h1
 {
@@ -12,6 +12,5 @@ h1
 section
 {
     color: var(--favcolor);
-    background-repeat: no-repeat;
     float:right;
 }
