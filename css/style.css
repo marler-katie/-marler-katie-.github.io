@@ -14,3 +14,11 @@ section
     color: var(--favcolor);
     float:right;
 }
+p
+{
+    text-align: center;
+}
+img
+{
+    border-radius: 30%;
+}
