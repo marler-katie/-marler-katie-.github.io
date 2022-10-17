@@ -32,3 +32,9 @@ p
 {
     text-align: center;
 }
+.RBGquote
+{
+    font-size: 18pt;
+    color:rgb(104, 104, 204);
+    background-color: rgb(20, 17, 71);
+}
