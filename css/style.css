@@ -1,0 +1,17 @@
+:root 
+{
+    ..favcolor: rgb(173,216,230);
+}
+h1
+{
+    text-align: center;
+    color: var(..favcolor);
+    background-color:rgb(25,25,112);
+    font-size: 38pt;
+}
+section
+{
+    color:var(..favcolor);
+    background-repeat: no-repeat;
+    float:right;
+}
