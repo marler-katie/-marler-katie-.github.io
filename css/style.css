@@ -18,11 +18,11 @@ p
 {
     text-align: center;
 }
-img
+#profilepic
 {
-    border-radius: 30%;
+    border-radius: 40%;
 }
-div
+.button
 {
     text-align: center;
 }
