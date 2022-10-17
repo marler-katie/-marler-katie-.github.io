@@ -17,10 +17,12 @@ section
 p
 {
     text-align: center;
+    font-size: 16pt;
 }
 #profilepic
 {
     border-radius: 40%;
+    text-align: center;
 }
 #RBGpic
 {
