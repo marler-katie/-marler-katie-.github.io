@@ -1,0 +1,14 @@
+body
+{
+    background-color: rgb(110, 110, 156);
+}
+h1
+{
+    text-decoration: underline;
+    text-align:center;
+    color:blue
+}
+ul
+{
+    font-size: 18pt;
+}
