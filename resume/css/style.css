@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(152, 152, 196);
+}
+:root 
+{
+    --favcolor:rgb(28, 145, 204);
+}
+h1
+{
+    text-align: center;
+    color: var(--favcolor);
+    background-color:rgb(25,25,112);
+    font-size: 38pt;
+}
+ul
+{
+    font-size: 18pt;
+}
+p
+{
+    font-size: 18pt;
+    color: black;
+    text-align: left;
+}
