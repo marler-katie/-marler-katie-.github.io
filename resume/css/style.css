@@ -17,6 +17,11 @@ section h2
 {
     font-size: 28pt;
 }
+section
+{
+    border: 3px --favcolor;
+    
+}
 .date
 {
   color: rgb(19, 19, 226);
