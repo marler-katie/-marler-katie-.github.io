@@ -17,6 +17,7 @@ section h2
 {
     font-size: 28pt;
     margin: 5px;
+    color: rgb(25,25,112);
 }
 section
 {
@@ -27,7 +28,7 @@ section
 }
 .date
 {
-  color: rgb(19, 19, 226);
+  color: rgb(143, 19, 226);
 }
 ul
 {
