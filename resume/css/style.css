@@ -38,6 +38,14 @@ section
   color: rgb(71, 5, 116);
   display: block;
 }
+#education h3
+{
+    border-bottom: 1px solid rgb(71, 5, 116);
+}
+#experience li
+{
+    border-bottom: 1px solid rgb(71, 5, 116);
+}
 ul
 {
     font-size: 18pt;
