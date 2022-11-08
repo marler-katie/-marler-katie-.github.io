@@ -21,9 +21,7 @@ ul
 {
     font-size: 18pt;
 }
-p
+.date
 {
-    font-size: 18pt;
-    color: black;
-    text-align: left;
+    font-color: rgb(9, 9, 104);
 }
