@@ -16,7 +16,7 @@ h1
 #resumepic
 {
     border-radius: 40%;
-    float: left;
+    display: block;
 
 }
 section h2
