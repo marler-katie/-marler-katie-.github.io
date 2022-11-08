@@ -19,8 +19,9 @@ section h2
 }
 section
 {
-    border: 3px --favcolor;
-    
+    border: 3px rgb(28, 145, 204);
+    padding: ;
+
 }
 .date
 {
