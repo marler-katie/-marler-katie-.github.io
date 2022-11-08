@@ -13,6 +13,10 @@ h1
     background-color:rgb(25,25,112);
     font-size: 38pt;
 }
+section h2
+{
+    font-size: 28pt;
+}
 ul
 {
     font-size: 18pt;
