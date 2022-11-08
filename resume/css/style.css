@@ -19,8 +19,9 @@ section h2
 }
 section
 {
-    border: 3px rgb(28, 145, 204);
-    padding: ;
+    border: 3px solid rgb(28, 145, 204);
+    margin: 20px;
+    padding: 10px;
 
 }
 .date
