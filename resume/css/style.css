@@ -17,11 +17,11 @@ section h2
 {
     font-size: 28pt;
 }
+.date
+{
+  color: rgb(9, 9, 104);
+}
 ul
 {
     font-size: 18pt;
-}
-.date
-{
-    font-color: rgb(9, 9, 104);
 }
