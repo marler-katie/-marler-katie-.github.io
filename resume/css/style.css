@@ -34,6 +34,7 @@ section
 .date
 {
   color: rgb(71, 5, 116);
+  display: block;
 }
 ul
 {
