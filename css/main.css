@@ -23,6 +23,7 @@ p
     font-size: 15pt;
     color: black;
     text-align: left;
+    clear: both;
 }
 iframe
 {
