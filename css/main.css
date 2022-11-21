@@ -11,16 +11,16 @@ h1
     text-align: center;
     color: var(--favcolor);
     background-color:rgb(25,25,112);
-    font-size: 38pt;
+    font-size: 36pt;
 }
 h2  
 {
-    font-size: 32pt;
+    font-size: 26pt;
 }
 
 h3
 {
-    font-size: 25pt;
+    font-size: 21pt;
 }
 ul
 {
