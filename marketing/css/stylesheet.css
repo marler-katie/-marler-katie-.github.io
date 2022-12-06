@@ -1,16 +1,16 @@
 body
 {
-    background-color: rgb(114, 168, 230);
+    background-color: rgb(222, 247, 134);
 }
 :root 
 {
-    background-color: rgb(6, 4, 39);
+    background-color: rgb(88, 126, 88);
 }
 h1
 {
     text-align: center;
     color: rgb(6, 3, 54);
-    background-color:rgb(78, 184, 141);
+    background-color:rgb(162, 231, 204);
     font-size: 36pt;
 }
 h2
