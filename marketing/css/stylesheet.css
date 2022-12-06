@@ -47,5 +47,5 @@ p
 {
     border: 2px solid rgb(71, 71, 192);
     display: inline-flex;
-    float: inline-end;
+    text-align: center;
 }
