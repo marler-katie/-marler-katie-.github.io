@@ -1,10 +1,10 @@
 body
 {
-    background-color: rgb(161, 175, 111);
+    background-color: rgb(181, 192, 140);
 }
 :root 
 {
-    background-color: rgb(102, 129, 102);
+    background-color: rgb(79, 116, 79);
 }
 h1
 {
@@ -16,7 +16,7 @@ h1
 h2
 {
     font-size: 30pt;
-    color:rgb(133, 55, 55)
+    color:rgb(165, 47, 47)
 
 }
 
