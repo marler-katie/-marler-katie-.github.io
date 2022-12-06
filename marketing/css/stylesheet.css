@@ -38,3 +38,8 @@ p
 {
     width: 100px;
 }
+.lhsbutton
+{
+    border-radius: 1%;
+    border-color: #48644d;
+}
