@@ -1,6 +1,6 @@
 body
 {
-    background-color: rgb(224, 125, 125);
+    background-color: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
 }
 :root 
 {
@@ -10,7 +10,7 @@ h1
 {
     text-align: center;
     color: var(--favcolor);
-    background-color:rgb(25,25,112);
+    background-color:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
     font-size: 36pt;
 }
 
@@ -18,7 +18,7 @@ ul
 {
     font-size: 18pt;
     color:black;
-    text-align: center;
+    text-align: left;
 
 }
 p
