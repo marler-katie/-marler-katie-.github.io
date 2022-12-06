@@ -45,7 +45,7 @@ p
 }
 .happydog
 {
-    border: 5px solid rgb(71, 71, 192);
+    border: 2px solid rgb(71, 71, 192);
     display: inline-flex;
-    text-align: center;
+    float: center;
 }
