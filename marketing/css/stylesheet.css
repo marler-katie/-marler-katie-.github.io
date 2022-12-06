@@ -45,4 +45,5 @@ p
 .happydog
 {
     border: 5px solid darkblue;
+    border-image-width: 100px;
 }
