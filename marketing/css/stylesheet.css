@@ -9,9 +9,14 @@ body
 h1
 {
     text-align: center;
-    color: var(--favcolor);
-    background-color:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
+    color: rgb(6, 3, 54);
+    background-color:rgb(122,220,180);
     font-size: 36pt;
+}
+h2
+{
+    font-size: 30pt;
+
 }
 
 ul
