@@ -46,6 +46,7 @@ p
 .happydog
 {
     border: 2px solid rgb(71, 71, 192);
-    display: inline-flex;
-    margin: auto;
+    display: inline-flex block;
+    margin-left: auto;
+    margin-right: auto;
 }
