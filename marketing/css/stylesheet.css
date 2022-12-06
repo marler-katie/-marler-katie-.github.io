@@ -33,6 +33,7 @@ p
     color: black;
     text-align: left;
     clear: both;
+    text-align: center ;
 }
 .button
 {
@@ -44,6 +45,7 @@ p
 }
 .happydog
 {
-    border: 5px solid darkblue;
+    border: 5px solid rgb(71, 71, 192);
     display: inline-block;
+    text-align: center;
 }
