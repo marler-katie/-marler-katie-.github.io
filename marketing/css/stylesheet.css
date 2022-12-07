@@ -45,11 +45,9 @@ p
 }
 .happydog
 {
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+    display:inline-flex;
     border: 2px solid rgb(71, 71, 192);
-    padding: 5px;
+    padding: 1px;
 }
 #list
 {
