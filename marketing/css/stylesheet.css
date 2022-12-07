@@ -19,14 +19,11 @@ h2
     color:rgb(211, 25, 25)
 
 }
-#list
-{
-    background-color: #56725b;
-}
 ul
 {
     font-size: 18pt;
     color:black;
+    background-color: #48644d;
 
 }
 p
