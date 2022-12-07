@@ -1,6 +1,8 @@
 body
 {
     background-color:#c7e0be;
+    overflow-x: hidden !important;
+
 }
 :root 
 {
