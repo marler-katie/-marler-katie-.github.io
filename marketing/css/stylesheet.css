@@ -19,7 +19,11 @@ h2
     color:rgb(211, 25, 25)
 
 }
-
+#list
+{
+    text-align: center;
+    background-color: #9fcaa7;
+}
 ul
 {
     font-size: 18pt;
@@ -47,9 +51,4 @@ p
     display:inline-flex;
     border: 2px solid rgb(71, 71, 192);
     padding: 1px;
-}
-#list
-{
-    text-align: center;
-    background-color: #48644d;
 }
