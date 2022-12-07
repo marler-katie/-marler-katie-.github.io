@@ -33,7 +33,6 @@ p
     color: black;
     text-align: left;
     clear: both;
-    text-align: center ;
 }
 .button
 {
@@ -52,4 +51,5 @@ p
 #list
 {
     text-align: center;
+    background-color: #48644d;
 }
